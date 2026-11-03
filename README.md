@@ -37,5 +37,5 @@ This learning project is strictly organized into targeted subfolders based on pr
 
 ## References & Resources
 
-* [GeeksforGeeks - Java Programming Examples](https://geeksforgeeks.org)
-* [Kunal Kushwaha - DSA Bootcamp Java Repository](https://github.com)
+* [GeeksforGeeks - Java Programming Examples](https://www.geeksforgeeks.org/java/java-programming-examples/)
+* [Kunal Kushwaha - DSA Bootcamp Java Repository](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java)
